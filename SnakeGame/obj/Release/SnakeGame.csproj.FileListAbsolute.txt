@@ -1,0 +1,15 @@
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe.config
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.pdb
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\MainWindow.g.cs
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\App.g.cs
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame_MarkupCompile.cache
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame_MarkupCompile.lref
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\MainWindow.baml
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.g.resources
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.Properties.Resources.resources
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.GenerateResource.cache
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.exe
+C:\Users\BLOND\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.pdb
